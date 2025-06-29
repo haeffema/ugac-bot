@@ -1,0 +1,1520 @@
+[
+  {
+    "name": "Dialga-O",
+    "price": 19,
+    "tera-price": null
+  },
+  {
+    "name": "Dragapult",
+    "price": 19,
+    "tera-price": null
+  },
+  {
+    "name": "Iron Valiant",
+    "price": 19,
+    "tera-price": null
+  },
+  {
+    "name": "Necrozma-Dawn",
+    "price": 19,
+    "tera-price": null
+  },
+  {
+    "name": "Zamazenta",
+    "price": 19,
+    "tera-price": null
+  },
+  {
+    "name": "Great Tusk",
+    "price": 18,
+    "tera-price": 19
+  },
+  {
+    "name": "Meowscarada",
+    "price": 18,
+    "tera-price": 16
+  },
+  {
+    "name": "Palafin",
+    "price": 18,
+    "tera-price": null
+  },
+  {
+    "name": "Spectrier",
+    "price": 18,
+    "tera-price": null
+  },
+  {
+    "name": "Darkrai",
+    "price": 17,
+    "tera-price": null
+  },
+  {
+    "name": "Deoxys-S",
+    "price": 17,
+    "tera-price": null
+  },
+  {
+    "name": "Garchomp",
+    "price": 17,
+    "tera-price": null
+  },
+  {
+    "name": "Greninja",
+    "price": 17,
+    "tera-price": 18
+  },
+  {
+    "name": "Shaymin-Sky",
+    "price": 17,
+    "tera-price": null
+  },
+  {
+    "name": "Gouging Fire",
+    "price": 16,
+    "tera-price": null
+  },
+  {
+    "name": "Iron Treads",
+    "price": 16,
+    "tera-price": 14
+  },
+  {
+    "name": "Roaring Moon",
+    "price": 16,
+    "tera-price": null
+  },
+  {
+    "name": "Terapagos",
+    "price": 16,
+    "tera-price": null
+  },
+  {
+    "name": "Ting-Lu",
+    "price": 16,
+    "tera-price": 16
+  },
+  {
+    "name": "Tornadus-T",
+    "price": 16,
+    "tera-price": 20
+  },
+  {
+    "name": "Chi-Yu",
+    "price": 15,
+    "tera-price": 17
+  },
+  {
+    "name": "Galarian Slowking",
+    "price": 15,
+    "tera-price": 14
+  },
+  {
+    "name": "Gholdengo",
+    "price": 15,
+    "tera-price": 15
+  },
+  {
+    "name": "Hisuian Samurott",
+    "price": 15,
+    "tera-price": 15
+  },
+  {
+    "name": "Iron Bundle",
+    "price": 15,
+    "tera-price": 20
+  },
+  {
+    "name": "Kyurem",
+    "price": 15,
+    "tera-price": null
+  },
+  {
+    "name": "Sneasler",
+    "price": 15,
+    "tera-price": null
+  },
+  {
+    "name": "Urshifu-R",
+    "price": 15,
+    "tera-price": 17
+  },
+  {
+    "name": "Zapdos",
+    "price": 15,
+    "tera-price": 15
+  },
+  {
+    "name": "Baxcalibur",
+    "price": 14,
+    "tera-price": null
+  },
+  {
+    "name": "Cinderace",
+    "price": 14,
+    "tera-price": 13
+  },
+  {
+    "name": "Dragonite",
+    "price": 14,
+    "tera-price": null
+  },
+  {
+    "name": "Enamorus",
+    "price": 14,
+    "tera-price": 19
+  },
+  {
+    "name": "Iron Hands",
+    "price": 14,
+    "tera-price": 15
+  },
+  {
+    "name": "Jirachi",
+    "price": 14,
+    "tera-price": 14
+  },
+  {
+    "name": "Landorus",
+    "price": 14,
+    "tera-price": 15
+  },
+  {
+    "name": "Landorus-T",
+    "price": 14,
+    "tera-price": 15
+  },
+  {
+    "name": "Latias",
+    "price": 14,
+    "tera-price": null
+  },
+  {
+    "name": "Ogerpon-W",
+    "price": 14,
+    "tera-price": 18
+  },
+  {
+    "name": "Raging Bolt",
+    "price": 14,
+    "tera-price": 20
+  },
+  {
+    "name": "Rotom-Wash",
+    "price": 14,
+    "tera-price": 14
+  },
+  {
+    "name": "Urshifu-S",
+    "price": 14,
+    "tera-price": 17
+  },
+  {
+    "name": "Annihilape",
+    "price": 13,
+    "tera-price": 15
+  },
+  {
+    "name": "Glimmora",
+    "price": 13,
+    "tera-price": 13
+  },
+  {
+    "name": "Iron Moth",
+    "price": 13,
+    "tera-price": 15
+  },
+  {
+    "name": "Keldeo",
+    "price": 13,
+    "tera-price": 14
+  },
+  {
+    "name": "Latios",
+    "price": 13,
+    "tera-price": null
+  },
+  {
+    "name": "Metagross",
+    "price": 13,
+    "tera-price": 13
+  },
+  {
+    "name": "Pecharunt",
+    "price": 13,
+    "tera-price": 14
+  },
+  {
+    "name": "Primarina",
+    "price": 13,
+    "tera-price": 13
+  },
+  {
+    "name": "Quaquaval",
+    "price": 13,
+    "tera-price": 16
+  },
+  {
+    "name": "Walking Wake",
+    "price": 13,
+    "tera-price": 14
+  },
+  {
+    "name": "Weavile",
+    "price": 13,
+    "tera-price": 13
+  },
+  {
+    "name": "Archaludon",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Excadrill",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Gliscor",
+    "price": 12,
+    "tera-price": 14
+  },
+  {
+    "name": "Heatran",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Necrozma",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Ogerpon-H",
+    "price": 12,
+    "tera-price": null
+  },
+  {
+    "name": "Rillaboom",
+    "price": 12,
+    "tera-price": 12
+  },
+  {
+    "name": "Scizor",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Thundurus-T",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Ursaluna",
+    "price": 12,
+    "tera-price": 13
+  },
+  {
+    "name": "Ursaluna-BM",
+    "price": 12,
+    "tera-price": null
+  },
+  {
+    "name": "Zarude",
+    "price": 12,
+    "tera-price": 20
+  },
+  {
+    "name": "Azumarill",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Blaziken",
+    "price": 11,
+    "tera-price": 17
+  },
+  {
+    "name": "Clefable",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Deoxys-D",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Iron Boulder",
+    "price": 11,
+    "tera-price": 18
+  },
+  {
+    "name": "Iron Crown",
+    "price": 11,
+    "tera-price": 14
+  },
+  {
+    "name": "Kingambit",
+    "price": 11,
+    "tera-price": 17
+  },
+  {
+    "name": "Krookodile",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Ogerpon-C",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Salamence",
+    "price": 11,
+    "tera-price": 15
+  },
+  {
+    "name": "Sandy Shocks",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Scream Tail",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Thundurus",
+    "price": 11,
+    "tera-price": 12
+  },
+  {
+    "name": "Tinkaton",
+    "price": 11,
+    "tera-price": 11
+  },
+  {
+    "name": "Azelf",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Ceruledge",
+    "price": 10,
+    "tera-price": 12
+  },
+  {
+    "name": "Corviknight",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Donphan",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Galarian Zapdos",
+    "price": 10,
+    "tera-price": 11
+  },
+  {
+    "name": "Hatterene",
+    "price": 10,
+    "tera-price": 11
+  },
+  {
+    "name": "Hisuian Arcanine",
+    "price": 10,
+    "tera-price": 11
+  },
+  {
+    "name": "Klefki",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Kommo-o",
+    "price": 10,
+    "tera-price": 12
+  },
+  {
+    "name": "Lycanroc-Dusk",
+    "price": 10,
+    "tera-price": 11
+  },
+  {
+    "name": "Mesprit",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Mew",
+    "price": 10,
+    "tera-price": 13
+  },
+  {
+    "name": "Ogerpon",
+    "price": 10,
+    "tera-price": 17
+  },
+  {
+    "name": "Pelipper",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Slowking",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Swampert",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Talonflame",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Tentacruel",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Tyranitar",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Uxie",
+    "price": 10,
+    "tera-price": 10
+  },
+  {
+    "name": "Volcarona",
+    "price": 10,
+    "tera-price": null
+  },
+  { "name": "Alolan Ninetales", "price": 9, "tera-price": 9 },
+  { "name": "Alomomola", "price": 9, "tera-price": 9 },
+  { "name": "Basculegion", "price": 9, "tera-price": 9 },
+  { "name": "Blastoise", "price": 9, "tera-price": 10 },
+  { "name": "Clodsire", "price": 9, "tera-price": 9 },
+  { "name": "Cobalion", "price": 9, "tera-price": 9 },
+  { "name": "Empoleon", "price": 9, "tera-price": 9 },
+  { "name": "Fezandipiti", "price": 9, "tera-price": 9 },
+  { "name": "Galarian Moltres", "price": 9, "tera-price": 10 },
+  { "name": "Galarian Weezing", "price": 9, "tera-price": 9 },
+  { "name": "Gardevoir", "price": 9, "tera-price": 10 },
+  { "name": "Hawlucha", "price": 9, "tera-price": 10 },
+  { "name": "Hisuian Lilligant", "price": 9, "tera-price": 10 },
+  { "name": "Hisuian Zoroark", "price": 9, "tera-price": 9 },
+  { "name": "Hoopa-U", "price": 9, "tera-price": 10 },
+  { "name": "Hydreigon", "price": 9, "tera-price": 10 },
+  { "name": "Mamoswine", "price": 9, "tera-price": 9 },
+  { "name": "Manaphy", "price": 9, "tera-price": 11 },
+  { "name": "Mandibuzz", "price": 9, "tera-price": 9 },
+  { "name": "Overqwil", "price": 9, "tera-price": 9 },
+  { "name": "Raikou", "price": 9, "tera-price": 10 },
+  { "name": "Sinistcha", "price": 9, "tera-price": 13 },
+  { "name": "Skarmory", "price": 9, "tera-price": 9 },
+  { "name": "Slither Wing", "price": 9, "tera-price": 9 },
+  { "name": "Torkoal", "price": 9, "tera-price": 9 },
+  { "name": "Barraskewda", "price": 8, "tera-price": 9 },
+  { "name": "Bronzong", "price": 8, "tera-price": 8 },
+  { "name": "Cresselia", "price": 8, "tera-price": 8 },
+  { "name": "Cyclizar", "price": 8, "tera-price": 8 },
+  { "name": "Diancie", "price": 8, "tera-price": 9 },
+  { "name": "Enamorus-T", "price": 8, "tera-price": 9 },
+  { "name": "Entei", "price": 8, "tera-price": 9 },
+  { "name": "Gengar", "price": 8, "tera-price": 8 },
+  { "name": "Gothitelle", "price": 8, "tera-price": 10 },
+  { "name": "Grimmsnarl", "price": 8, "tera-price": 8 },
+  { "name": "Haxorus", "price": 8, "tera-price": 9 },
+  { "name": "Hisuian Goodra", "price": 8, "tera-price": 8 },
+  { "name": "Hydrapple", "price": 8, "tera-price": 15 },
+  { "name": "Infernape", "price": 8, "tera-price": 9 },
+  { "name": "Iron Jugulis", "price": 8, "tera-price": 9 },
+  { "name": "Mienshao", "price": 8, "tera-price": 8 },
+  { "name": "Mimikyu", "price": 8, "tera-price": 8 },
+  { "name": "Moltres", "price": 8, "tera-price": 8 },
+  { "name": "Ninetales", "price": 8, "tera-price": 8 },
+  { "name": "Noivern", "price": 8, "tera-price": 9 },
+  { "name": "Okidogi", "price": 8, "tera-price": 9 },
+  { "name": "Revavroom", "price": 8, "tera-price": 9 },
+  { "name": "Shaymin", "price": 8, "tera-price": 8 },
+  { "name": "Skeledirge", "price": 8, "tera-price": 10 },
+  { "name": "Terrakion", "price": 8, "tera-price": 8 },
+  { "name": "Toxapex", "price": 8, "tera-price": 8 },
+  { "name": "Tsareena", "price": 8, "tera-price": 8 },
+  { "name": "Volcanion", "price": 8, "tera-price": 9 },
+  { "name": "Alolan Muk", "price": 7, "tera-price": 7 },
+  { "name": "Arcanine", "price": 7, "tera-price": 7 },
+  { "name": "Breloom", "price": 7, "tera-price": 7 },
+  { "name": "Conkeldurr", "price": 7, "tera-price": 9 },
+  { "name": "Dragalge", "price": 7, "tera-price": 7 },
+  { "name": "Dudunsparce", "price": 7, "tera-price": 7 },
+  { "name": "Florges", "price": 7, "tera-price": 7 },
+  { "name": "Gallade", "price": 7, "tera-price": 7 },
+  { "name": "Garganacl", "price": 7, "tera-price": 8 },
+  { "name": "Goodra", "price": 7, "tera-price": 7 },
+  { "name": "Hippowdon", "price": 7, "tera-price": 7 },
+  { "name": "Hisuian Qwilfish", "price": 7, "tera-price": 7 },
+  { "name": "Kilowattrel", "price": 7, "tera-price": 8 },
+  { "name": "Meloetta", "price": 7, "tera-price": 7 },
+  { "name": "Milotic", "price": 7, "tera-price": 7 },
+  { "name": "Qwilfish", "price": 7, "tera-price": 7 },
+  { "name": "Regieleki", "price": 7, "tera-price": 18 },
+  { "name": "Rhyperior", "price": 7, "tera-price": 8 },
+  { "name": "Rotom-Heat", "price": 7, "tera-price": 7 },
+  { "name": "Rotom-Mow", "price": 7, "tera-price": 7 },
+  { "name": "Serperior", "price": 7, "tera-price": 11 },
+  { "name": "Snorlax", "price": 7, "tera-price": 7 },
+  { "name": "Sylveon", "price": 7, "tera-price": 7 },
+  { "name": "Venusaur", "price": 7, "tera-price": 8 },
+  { "name": "Weezing", "price": 7, "tera-price": 7 },
+  { "name": "Whimsicott", "price": 7, "tera-price": 7 },
+  { "name": "Abomasnow", "price": 6, "tera-price": 6 },
+  { "name": "Amoonguss", "price": 6, "tera-price": 6 },
+  { "name": "Araquanid", "price": 6, "tera-price": 6 },
+  { "name": "Armarouge", "price": 6, "tera-price": 7 },
+  { "name": "Bellibolt", "price": 6, "tera-price": 7 },
+  { "name": "Brambleghast", "price": 6, "tera-price": 6 },
+  { "name": "Braviary", "price": 6, "tera-price": 6 },
+  { "name": "Chandelure", "price": 6, "tera-price": 6 },
+  { "name": "Cloyster", "price": 6, "tera-price": 7 },
+  { "name": "Comfey", "price": 6, "tera-price": 7 },
+  { "name": "Decidueye", "price": 6, "tera-price": 6 },
+  { "name": "Delphox", "price": 6, "tera-price": 6 },
+  { "name": "Dondozo", "price": 6, "tera-price": 6 },
+  { "name": "Dugtrio", "price": 6, "tera-price": 6 },
+  { "name": "Espathra", "price": 6, "tera-price": 10 },
+  { "name": "Forretress", "price": 6, "tera-price": 6 },
+  { "name": "Gastrodon", "price": 6, "tera-price": 6 },
+  { "name": "Gyarados", "price": 6, "tera-price": 7 },
+  { "name": "Hariyama", "price": 6, "tera-price": 6 },
+  { "name": "Heracross", "price": 6, "tera-price": 7 },
+  { "name": "Kingdra", "price": 6, "tera-price": 6 },
+  { "name": "Kleavor", "price": 6, "tera-price": 6 },
+  { "name": "Lokix", "price": 6, "tera-price": 7 },
+  { "name": "Mismagius", "price": 6, "tera-price": 7 },
+  { "name": "Munkidori", "price": 6, "tera-price": 6 },
+  { "name": "Paldean Tauros-A", "price": 6, "tera-price": 6 },
+  { "name": "Paldean Tauros-B", "price": 6, "tera-price": 6 },
+  { "name": "Pawmot", "price": 6, "tera-price": 6 },
+  { "name": "Porygon-Z", "price": 6, "tera-price": 6 },
+  { "name": "Reuniclus", "price": 6, "tera-price": 7 },
+  { "name": "Ribombee", "price": 6, "tera-price": 6 },
+  { "name": "Salazzle", "price": 6, "tera-price": 6 },
+  { "name": "Scrafty", "price": 6, "tera-price": 6 },
+  { "name": "Slowbro", "price": 6, "tera-price": 6 },
+  { "name": "Suicune", "price": 6, "tera-price": 6 },
+  { "name": "Toxtricity", "price": 6, "tera-price": 7 },
+  { "name": "Ursaring", "price": 6, "tera-price": 7 },
+  { "name": "Vaporeon", "price": 6, "tera-price": 6 },
+  { "name": "Cetitan", "price": 6, "tera-price": 6 },
+  { "name": "Chesnaught", "price": 5, "tera-price": 5 },
+  { "name": "Eelektross", "price": 5, "tera-price": 5 },
+  { "name": "Galarian Slowbro", "price": 5, "tera-price": 5 },
+  { "name": "Hisuian Braviary", "price": 5, "tera-price": 7 },
+  { "name": "Hisuian Electrode", "price": 5, "tera-price": 6 },
+  { "name": "Incineroar", "price": 5, "tera-price": 5 },
+  { "name": "Inteleon", "price": 5, "tera-price": 5 },
+  { "name": "Iron Leaves", "price": 5, "tera-price": 6 },
+  { "name": "Iron Thorns", "price": 5, "tera-price": 6 },
+  { "name": "Lucario", "price": 5, "tera-price": 6 },
+  { "name": "Magnezone", "price": 5, "tera-price": 6 },
+  { "name": "Mudsdale", "price": 5, "tera-price": 5 },
+  { "name": "Muk", "price": 5, "tera-price": 5 },
+  { "name": "Politoed", "price": 5, "tera-price": 5 },
+  { "name": "Porygon2", "price": 5, "tera-price": 5 },
+  { "name": "Quagsire", "price": 5, "tera-price": 5 },
+  { "name": "Regidrago", "price": 5, "tera-price": 6 },
+  { "name": "Rotom", "price": 5, "tera-price": 5 },
+  { "name": "Rotom-Frost", "price": 5, "tera-price": 5 },
+  { "name": "Sableye", "price": 5, "tera-price": 5 },
+  { "name": "Tornadus", "price": 5, "tera-price": 6 },
+  { "name": "Umbreon", "price": 5, "tera-price": 5 },
+  { "name": "Vileplume", "price": 5, "tera-price": 5 },
+  { "name": "Wo-Chien", "price": 5, "tera-price": 5 },
+  { "name": "Alolan Persian", "price": 4, "tera-price": 4 },
+  { "name": "Arboliva", "price": 4, "tera-price": 4 },
+  { "name": "Bisharp", "price": 4, "tera-price": 4 },
+  { "name": "Blissey", "price": 4, "tera-price": 5 },
+  { "name": "Brute Bonnet", "price": 4, "tera-price": 4 },
+  { "name": "Cinccino", "price": 4, "tera-price": 5 },
+  { "name": "Crawdaunt", "price": 4, "tera-price": 4 },
+  { "name": "Cryogonal", "price": 4, "tera-price": 4 },
+  { "name": "Drifblim", "price": 4, "tera-price": 4 },
+  { "name": "Emboar", "price": 4, "tera-price": 4 },
+  { "name": "Espeon", "price": 4, "tera-price": 4 },
+  { "name": "Froslass", "price": 4, "tera-price": 4 },
+  { "name": "Galarian Articuno", "price": 4, "tera-price": 5 },
+  { "name": "Galvantula", "price": 4, "tera-price": 4 },
+  { "name": "Glastrier", "price": 4, "tera-price": 6 },
+  { "name": "Golurk", "price": 4, "tera-price": 4 },
+  { "name": "Granbull", "price": 4, "tera-price": 4 },
+  { "name": "Hitmonlee", "price": 4, "tera-price": 5 },
+  { "name": "Hitmontop", "price": 4, "tera-price": 4 },
+  { "name": "Houndstone", "price": 4, "tera-price": 4 },
+  { "name": "Lanturn", "price": 4, "tera-price": 4 },
+  { "name": "Maushold", "price": 4, "tera-price": 5 },
+  { "name": "Piloswine", "price": 4, "tera-price": 4 },
+  { "name": "Polteageist", "price": 4, "tera-price": 5 },
+  { "name": "Registeel", "price": 4, "tera-price": 5 },
+  { "name": "Skuntank", "price": 4, "tera-price": 4 },
+  { "name": "Staraptor", "price": 4, "tera-price": 4 },
+  { "name": "Toedscruel", "price": 4, "tera-price": 4 },
+  { "name": "Torterra", "price": 4, "tera-price": 5 },
+  { "name": "Yanmega", "price": 4, "tera-price": 5 },
+  { "name": "Zoroark", "price": 4, "tera-price": 4 },
+  { "name": "Alolan Raichu", "price": 3, "tera-price": 3 },
+  { "name": "Altaria", "price": 3, "tera-price": 3 },
+  { "name": "Ambipom", "price": 3, "tera-price": 3 },
+  { "name": "Bombirdier", "price": 3, "tera-price": 3 },
+  { "name": "Chansey", "price": 3, "tera-price": 3 },
+  { "name": "Ditto", "price": 3, "tera-price": 3 },
+  { "name": "Duraludon", "price": 3, "tera-price": 3 },
+  { "name": "Dusknoir", "price": 3, "tera-price": 3 },
+  { "name": "Feraligatr", "price": 3, "tera-price": 4 },
+  { "name": "Flamigo", "price": 3, "tera-price": 3 },
+  { "name": "Floatzel", "price": 3, "tera-price": 4 },
+  { "name": "Flygon", "price": 3, "tera-price": 4 },
+  { "name": "Grafaiai", "price": 3, "tera-price": 3 },
+  { "name": "Hisuian Decidueye", "price": 3, "tera-price": 3 },
+  { "name": "Hisuian Typhlosion", "price": 3, "tera-price": 4 },
+  { "name": "Hitmonchan", "price": 3, "tera-price": 3 },
+  { "name": "Hoopa", "price": 3, "tera-price": 4 },
+  { "name": "Indeedee", "price": 3, "tera-price": 4 },
+  { "name": "Lycanroc", "price": 3, "tera-price": 3 },
+  { "name": "Medicham", "price": 3, "tera-price": 3 },
+  { "name": "Oricorio", "price": 3, "tera-price": 5 },
+  { "name": "Palossand", "price": 3, "tera-price": 3 },
+  { "name": "Passimian", "price": 3, "tera-price": 3 },
+  { "name": "Raichu", "price": 3, "tera-price": 3 },
+  { "name": "Regirock", "price": 3, "tera-price": 3 },
+  { "name": "Rhydon", "price": 3, "tera-price": 3 },
+  { "name": "Rotom-Fan", "price": 3, "tera-price": 4 },
+  { "name": "Sandaconda", "price": 3, "tera-price": 3 },
+  { "name": "Scyther", "price": 3, "tera-price": 3 },
+  { "name": "Smeargle", "price": 3, "tera-price": 3 },
+  { "name": "Spiritomb", "price": 3, "tera-price": 3 },
+  { "name": "Swalot", "price": 3, "tera-price": 3 },
+  { "name": "Tauros", "price": 3, "tera-price": 3 },
+  { "name": "Toxicroak", "price": 3, "tera-price": 3 },
+  { "name": "Venomoth", "price": 3, "tera-price": 4 },
+  { "name": "Victreebel", "price": 3, "tera-price": 3 },
+  { "name": "Vikavolt", "price": 3, "tera-price": 3 },
+  { "name": "Virizion", "price": 3, "tera-price": 3 },
+  { "name": "Alcremie", "price": 2, "tera-price": 3 },
+  { "name": "Alolan Exeggutor", "price": 2, "tera-price": 2 },
+  { "name": "Alolan Golem", "price": 2, "tera-price": 2 },
+  { "name": "Alolan Sandslash", "price": 2, "tera-price": 2 },
+  { "name": "Appletun", "price": 2, "tera-price": 2 },
+  { "name": "Arbok", "price": 2, "tera-price": 2 },
+  { "name": "Articuno", "price": 2, "tera-price": 4 },
+  { "name": "Avalugg", "price": 2, "tera-price": 2 },
+  { "name": "Beartic", "price": 2, "tera-price": 2 },
+  { "name": "Carbink", "price": 2, "tera-price": 2 },
+  { "name": "Charizard", "price": 2, "tera-price": 2 },
+  { "name": "Coalossal", "price": 2, "tera-price": 2 },
+  { "name": "Copperajah", "price": 2, "tera-price": 2 },
+  { "name": "Dachsbun", "price": 2, "tera-price": 2 },
+  { "name": "Drednaw", "price": 2, "tera-price": 3 },
+  { "name": "Dunsparce", "price": 2, "tera-price": 2 },
+  { "name": "Electivire", "price": 2, "tera-price": 2 },
+  { "name": "Farigiraf", "price": 2, "tera-price": 2 },
+  { "name": "Gligar", "price": 2, "tera-price": 2 },
+  { "name": "Gogoat", "price": 2, "tera-price": 2 },
+  { "name": "Gothorita", "price": 2, "tera-price": 3 },
+  { "name": "Gurdurr", "price": 2, "tera-price": 3 },
+  { "name": "Hisuian Sneasel", "price": 2, "tera-price": 2 },
+  { "name": "Houndoom", "price": 2, "tera-price": 2 },
+  { "name": "Illumise", "price": 2, "tera-price": 2 },
+  { "name": "Jolteon", "price": 2, "tera-price": 6 },
+  { "name": "Komala", "price": 2, "tera-price": 2 },
+  { "name": "Lapras", "price": 2, "tera-price": 3 },
+  { "name": "Leafeon", "price": 2, "tera-price": 2 },
+  { "name": "Leavanny", "price": 2, "tera-price": 2 },
+  { "name": "Ludicolo", "price": 2, "tera-price": 2 },
+  { "name": "Lurantis", "price": 2, "tera-price": 3 },
+  { "name": "Mabosstiff", "price": 2, "tera-price": 2 },
+  { "name": "Magmortar", "price": 2, "tera-price": 2 },
+  { "name": "Magneton", "price": 2, "tera-price": 2 },
+  { "name": "Masquerain", "price": 2, "tera-price": 2 },
+  { "name": "Meganium", "price": 2, "tera-price": 2 },
+  { "name": "Minior", "price": 2, "tera-price": 2 },
+  { "name": "Misdreavus", "price": 2, "tera-price": 2 },
+  { "name": "Naclstack", "price": 2, "tera-price": 2 },
+  { "name": "Orthworm", "price": 2, "tera-price": 2 },
+  { "name": "Paldean Tauros", "price": 2, "tera-price": 2 },
+  { "name": "Pincurchin", "price": 2, "tera-price": 2 },
+  { "name": "Poliwrath", "price": 2, "tera-price": 2 },
+  { "name": "Primeape", "price": 2, "tera-price": 2 },
+  { "name": "Regice", "price": 2, "tera-price": 2 },
+  { "name": "Sceptile", "price": 2, "tera-price": 2 },
+  { "name": "Scovillain", "price": 3, "tera-price": 3 },
+  { "name": "Shiftry", "price": 2, "tera-price": 2 },
+  { "name": "Sneasel", "price": 2, "tera-price": 2 },
+  { "name": "Tatsugiri", "price": 2, "tera-price": 2 },
+  { "name": "Thwackey", "price": 2, "tera-price": 2 },
+  { "name": "Trevenant", "price": 2, "tera-price": 2 },
+  { "name": "Typhlosion", "price": 2, "tera-price": 2 },
+  { "name": "Veluza", "price": 2, "tera-price": 2 },
+  { "name": "Volbeat", "price": 2, "tera-price": 2 },
+  { "name": "Zangoose", "price": 2, "tera-price": 2 },
+  {
+    "name": "Zangoose",
+    "price": 1,
+    "tera-price": null
+  },
+  {
+    "name": "Alolan Dugtrio",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Alolan Grimer",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Alolan Vulpix",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Ampharos",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Ariados",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Banette",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Basculin",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Bastiodon",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Bayleef",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Bellossom",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Brionne",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Bruxish",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Cacturne",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Calyrex",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Camerupt",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Carkol",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Charjabug",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Chimecho",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Clawitzer",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Clefairy",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Cosmoem",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Crabominable",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Cramorant",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Crocalor",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Croconaw",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Dedenne",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Delibird",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Dewgong",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Diglett",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Dipplin",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Dodrio",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Dragonair",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Drakloak",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Duosion",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Dusclops",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Eelektrik",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Eiscue",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Electabuzz",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Electrode",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Exeggutor",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Falinks",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Flaaffy",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Flapple",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Flareon",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Fletchinder",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Floragato",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Fraxure",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Frogadier",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Frosmoth",
+    "price": 1,
+    "tera-price": 3
+  },
+  {
+    "name": "Furret",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Gabite",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Girafarig",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Glaceon",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Glalie",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Glimmet",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Golduck",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Golem",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Greedent",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Grotle",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Grumpig",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Gumshoos",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Hakamo-o",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Hattrem",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Haunter",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Hippopotas",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Hisuian Avalugg",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Hisuian Sliggoo",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Hisuian Zorua",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Honchkrow",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Hypno",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Jumpluff",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Klawf",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Koffing",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Kricketune",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Krokorok",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Lilligant",
+    "price": 1,
+    "tera-price": 3
+  },
+  {
+    "name": "Lumineon",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Luxray",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Lycanroc-Midnight",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Magcargo",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Magmar",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Malamar",
+    "price": 1,
+    "tera-price": 2
+  },
+  {
+    "name": "Mareanie",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Marill",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Meowstic",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Metang",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Mightyena",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Minun",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Monferno",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Morgrem",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Morpeko",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Munchlax",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Murkrow",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Noctowl",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Oinkologne",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Oranguru",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Pachirisu",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Perrserker",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Persian",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Phione",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Pignite",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Pikachu",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Plusle",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Porygon",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Prinplup",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Probopass",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Pyroar",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Quaxwell",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Quilava",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Quilladin",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Raboot",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Rabsca",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Rampardos",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Regigigas",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Samurott",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Sandslash",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Sawsbuck",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Servine",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Seviper",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Shelgon",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Slaking",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Sliggoo",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Slowpoke",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Snover",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Spidops",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Squawkabilly",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Stantler",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Staravia",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Stonjourner",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Sudowoodo",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Sunflora",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Swanna",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Tarountula",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Tinkatuff",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Torracat",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Toucannon",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Trapinch",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Tropius",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Vespiquen",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Vigoroth",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Vivillon",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Vullaby",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Vulpix",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Whiscash",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Wigglytuff",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Wugtrio",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Wyrdeer",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Zebstrika",
+    "price": 1,
+    "tera-price": 1
+  },
+  {
+    "name": "Zweilous",
+    "price": 1,
+    "tera-price": 1
+  }
+]

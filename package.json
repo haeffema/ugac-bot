@@ -1,0 +1,35 @@
+{
+  "name": "ugac-bot",
+  "version": "1.0.0",
+  "description": "An updated version of the pokemon but, which is used for more players on a specific discord server",
+  "main": "index.ts",
+  "repository": "https://github.com/haeffema/ugac-bot.git",
+  "author": "Max <haeffema@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@eslint/js": "^9.30.0",
+    "@eslint/json": "^0.12.0",
+    "@typescript-eslint/eslint-plugin": "^8.35.0",
+    "@typescript-eslint/parser": "^8.35.0",
+    "eslint": "^9.30.0",
+    "globals": "^16.2.0",
+    "lint-staged": "^16.1.2",
+    "prettier": "^3.6.2",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.35.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "npx ts-node src/index.ts",
+    "lint": "eslint .",
+    "format": "prettier --write \"**/*.ts\" \"**/*.json\""
+  },
+  "lint-staged": {
+    "*.{ts,json}": [
+      "prettier --write",
+      "eslint . "
+    ]
+  }
+}
